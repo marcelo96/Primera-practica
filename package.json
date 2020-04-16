@@ -1,0 +1,22 @@
+{
+  "name": "primera-practica",
+  "version": "1.0.0",
+  "description": "Practica de ambientes de desarrollo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelo96/Primera-practica.git"
+  },
+  "author": "Marcelo Rios Rodriguez <marceloriosrodriguez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcelo96/Primera-practica/issues"
+  },
+  "homepage": "https://github.com/marcelo96/Primera-practica#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
